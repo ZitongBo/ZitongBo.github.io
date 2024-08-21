@@ -3,6 +3,7 @@ title: "RTDeepEnsemble: Real-time DNN Ensemble Method for Machine Perception Sys
 collection: publications
 category: conferences
 permalink: /publication/RTDeepEnsemble
+date: 2024-11-18
 excerpt: 'I will make a presentation in Milan, Italy on November 18'
 venue: 'The 42nd IEEE International Conference on Computer Design (ICCD 2024)'
 slidesurl: ''
