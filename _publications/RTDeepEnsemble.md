@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/RTDeepEnsemble
 excerpt: 'I will make a presentation in Milan, Italy on November 18'
-date: 
 venue: 'The 42nd IEEE International Conference on Computer Design (ICCD 2024)'
 slidesurl: ''
 paperurl: ''
