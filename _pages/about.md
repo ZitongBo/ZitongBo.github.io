@@ -6,19 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a four year undergraduate student from [Institute of Software](https://www.is.cas.cn/), Chinese Academy of Sciences. My research interest includes real-time system, embedded AI, and reinforcement learning.
+I'm a four year undergraduate student from [Institute of Software, Chinese Academy of Sciences](https://www.is.cas.cn/). My research interest includes Real-time System, Embedded AI, and Reinforcement Learning. I am very fortunate to be advised by Prof. Ying Qiao of Human-computer Interaction technology and intelligent information processing Laboratory.
 
-I am very fortunate to be advised by Prof. Ying Qiao of Beijing key Lab.
+I used to work with Prof. [Junliang Xing](https://pi.cs.tsinghua.edu.cn/lab/people/jlxing/en/) at Institute of Automation, Chinese Academy of Sciences. We have won third and fourth place in the CIG2017 and AIIDE2018 StarCraft AI competitions. I am a grand master-level StarCraft player and very passionate about using AI technology to play games.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+I'm looking for a job opportunity. If you are interested in my research, please feel free to contact me!
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
-————————————————
+**E-mail: zitong2019@iscas.ac.cn, bozitong1996@gmail.com**
+
+[Github](https://github.com/) / [CSDN](https://blog.csdn.net/bozitong1996?spm=1011.2415.3001.5343)
 
                       
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
+
+New:
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* Our work has been accepted by ICCD2024 and I will give an oral presentation on November 18 in Milan, Italy.
