@@ -7,9 +7,7 @@
 main:
   - title: "Publications"
     url: /publications/
-  
-  - title: "Awards"
-    url: /teaching/    
+    
     
   - title: "Experience"
     url: /cv/
