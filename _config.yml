@@ -21,7 +21,7 @@ repository               : "zitongbo/zitongbo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "头像.png"
   name             : "Zitong Bo（薄紫彤）"
   pronouns         : # example: "she/her"  
   bio              : "Everything is real-time!"
