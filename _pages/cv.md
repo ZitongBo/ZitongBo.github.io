@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Institute of Software, Chinese Academy of Science, 2018-2024
+* Ph.D in Institute of Software, Chinese Academy of Science, 2018-
+  * Real-time System, Embedded AI
+  * Advisor: Prof. [Ying Qiao](https://people.ucas.ac.cn/~yqiao)
 * B.S. in School of Computer & Communication Engineering, University Of Science & Technology Beijing, 2014-2018
 
 Work experience
