@@ -6,7 +6,7 @@ permalink: /publication/RLscheduler
 excerpt: 'author: **Zitong Bo**, Ying Qiao, Chang Leng, Hongan Wang, Chaoping Guo and Shaohui Zhang '
 date: 2021-05-31
 venue: '27th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2021)'
-paperurl: 'http://academicpages.github.io/files/RLscheduler.pdf'
+paperurl: 'http://zitongbo.github.io/files/RLscheduler.pdf'
 citation: 'BO, Zitong, et al. Developing real-time scheduling policy by deep reinforcement learning. In: 2021 IEEE 27th Real-Time and Embedded Technology and Applications Symposium (RTAS). IEEE, 2021. p. 131-142.'
 ---
 
