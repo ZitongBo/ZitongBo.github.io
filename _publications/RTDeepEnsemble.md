@@ -6,8 +6,7 @@ permalink: /publication/RTDeepEnsemble
 date: 2024-11-18
 excerpt: 'Authors: **Zitong Bo**, Chaoping Guo, Chang Leng, Ying Qiao and Hongan Wang<br>
 I will make a presentation in Milan, Italy on November 18'
-venue: 'The 42nd IEEE International Conference on Computer Design (ICCD 2024)'
-slidesurl: ''
+venue: 'The 42nd IEEE International Conference on Computer Design (ICCD)'
 paperurl: ''
 citation: ''
 ---
