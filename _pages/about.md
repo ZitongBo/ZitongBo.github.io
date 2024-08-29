@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a four year undergraduate student from [Institute of Software, Chinese Academy of Sciences](https://www.is.cas.cn/). My research interest includes Real-time System, Embedded AI, and Reinforcement Learning. I am very fortunate to be advised by Prof. Ying Qiao of Human-computer Interaction technology and intelligent information processing Laboratory.
+I am a fourth-year PhD candidate from [Institute of Software, Chinese Academy of Sciences](https://www.is.cas.cn/). My research interest includes Real-time System, Embedded AI, and Reinforcement Learning. I am very fortunate to be advised by Prof. Ying Qiao of Human-computer Interaction technology and intelligent information processing Laboratory.
 
 I used to work with Prof. [Junliang Xing](https://pi.cs.tsinghua.edu.cn/lab/people/jlxing/en/) at Institute of Automation, Chinese Academy of Sciences. We have won third and fourth place in the CIG2017 and AIIDE2018 StarCraft AI competitions. I am a grand master-level StarCraft player and very passionate about using AI technology to play games.
 
