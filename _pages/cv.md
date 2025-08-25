@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Institute of Software, Chinese Academy of Science, 2018-
+* Ph.D in Institute of Software, Chinese Academy of Science, 2018-2024
   * Real-time System, Embedded AI
   * Advisor: Prof. [Ying Qiao](https://people.ucas.ac.cn/~yqiao)
 * B.S. in School of Computer & Communication Engineering, University Of Science & Technology Beijing, 2014-2018
 
 Work experience
 ======
+* 2025~ : Xiaomi Robotics Lab
+  * Senior Algorithm Engineer
+  * Vision Language Action Models (VLA), Agentic AI, Chain-of-Thought, Reinforcement Learning
 * 2017~2018: Institute of Automation, Chinese Academy of Sciences
   * Research intern
   * Reinforcement Learning, Game Theory
