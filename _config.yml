@@ -22,13 +22,13 @@ repository               : "zitongbo/zitongbo.github.io"
 author:
   # Biographic information
   avatar           : "头像.png"
-  name             : "Zitong Bo（薄紫彤）"
+  name             : "Zitong Bo 薄紫彤"
   pronouns         : # example: "she/her"  
-  bio              : "Everything is real-time!"
+  bio              : "Sincerity & Passion"
   location         : "Beijing, China"
-  employer         : "Chinese Academy of Sciences"
+  employer         : "Xiaomi Robotics Lab"
   uri              : # URL
-  email            : "zitong2019@iscas.ac.cn" 
+  email            : "bozitong1996@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
