@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Senior Algorithm Engineer at Xiaomi Robotics Lab, focusing on manipulation and mobile manipulation tasks using Vision Language Models (VLM) and Vision Language Action Models (VLA). My research insterests include Agentic AI, Chain-of-Thought, Reinforcement Learning.
+I am a Senior Algorithm Engineer at Xiaomi Robotics Lab, focusing on manipulation and loco-manipulation tasks using Vision Language Models (VLM) and Vision Language Action Models (VLA). My research insterests include Agentic AI, Chain-of-Thought, Reinforcement Learning.
 
 I received my Ph.D. from the [Institute of Software, Chinese Academy of Sciences](https://www.is.cas.cn/). My research interests include Real-time Systems, Embedded AI, and Reinforcement Learning. I am very fortunate to be advised by Prof. Ying Qiao of the Human-computer Interaction Technology and Intelligent Information Processing Laboratory.
 
@@ -22,6 +22,7 @@ I used to work with Prof. [Junliang Xing](https://pi.cs.tsinghua.edu.cn/lab/peop
 
 New:
 ------
+* Our work [Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation](https://arxiv.org/abs/2509.25852) has been uploaded to arXiv.
 * I will give an introduction of Xiaomi Robotics Lab at NUS and NTU on September 3rd and 4th. We invite more like-minded students to join our team!
 * I officially joined Xiaomi Robotics Lab on January 21st, 2025
 * Our work [RTDeepEnsemble: Real-time DNN Ensemble Method for Machine Perception Systems](https://zitongbo.github.io/publication/RTDeepEnsemble) has been accepted by the 42nd IEEE International Conference on Computer Design (ICCD2024) and I will give an oral presentation on November 18 in Milan, Italy.
