@@ -197,7 +197,8 @@
 
   @include breakpoint($large) {
     display: block;
-    position: relative;
+    position: sticky;
+    top: 1.5rem; // keep social links visible while sidebar scrolls
     margin: 0;
     padding: 0;
     border: 0;
