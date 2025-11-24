@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
-comments: true
+# comments: true
 redirect_from: 
   - /about/
   - /about.html
@@ -17,6 +17,11 @@ I previously worked with Prof. [Junliang Xing](https://pi.cs.tsinghua.edu.cn/lab
 **Email:** bozitong@xiaomi.com, bozitong1996@gmail.com
 
 [Zhihu](https://www.zhihu.com/people/qian-chang-22-46/posts)
+
+**Visitor Map**
+<div class="clustrmaps-widget">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xeiHAWQl-GyUWcmcn0kAQStlwCSaRho8umNAMkcylPw&cl=ffffff&w=a"></script>
+</div>
 
                       
 
