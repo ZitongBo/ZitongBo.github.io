@@ -1,3 +1,26 @@
 <!-- start custom comments snippet -->
-
+{% assign giscus = site.giscus | default: {} %}
+{% if giscus.repo and giscus.repo_id %}
+  <div id="giscus_thread"></div>
+  <script
+    src="https://giscus.app/client.js"
+    data-repo="{{ giscus.repo }}"
+    data-repo-id="{{ giscus.repo_id }}"
+    data-category="{{ giscus.category | default: 'General' }}"
+    {% if giscus.category_id %}data-category-id="{{ giscus.category_id }}"{% endif %}
+    data-mapping="{{ giscus.mapping | default: 'pathname' }}"
+    data-strict="{{ giscus.strict | default: 0 }}"
+    data-reactions-enabled="{{ giscus.reactions_enabled | default: 1 }}"
+    data-emit-metadata="{{ giscus.emit_metadata | default: 0 }}"
+    data-input-position="{{ giscus.input_position | default: 'bottom' }}"
+    data-theme="{{ giscus.theme | default: 'light' }}"
+    data-lang="{{ giscus.lang | default: 'en' }}"
+    data-loading="{{ giscus.loading | default: 'lazy' }}"
+    crossorigin="anonymous"
+    async>
+  </script>
+  <noscript>请开启 JavaScript 以载入评论。</noscript>
+{% else %}
+  <p class="notice--warning">Giscus 配置信息缺失，暂无法加载评论。</p>
+{% endif %}
 <!-- end custom comments snippet -->
