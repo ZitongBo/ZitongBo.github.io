@@ -16,12 +16,7 @@ I previously worked with Prof. [Junliang Xing](https://pi.cs.tsinghua.edu.cn/lab
 
 **Email:** bozitong@xiaomi.com, bozitong1996@gmail.com
 
-[Zhihu](https://www.zhihu.com/people/qian-chang-22-46/posts)
-
-**Visitor Map**
-<div class="clustrmaps-widget">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xeiHAWQl-GyUWcmcn0kAQStlwCSaRho8umNAMkcylPw&cl=ffffff&w=a"></script>
-</div>
+I share study notes on Zhihu from time to time—feel free to follow. [Zhihu](https://www.zhihu.com/people/qian-chang-22-46/posts)
 
                       
 
@@ -35,3 +30,9 @@ News
 * Our latest work on energy management for embedded systems using reinforcement learning has been submitted to the 22nd ACM Conference on Embedded Networked Sensor Systems (SenSys 2024).
 * Our papers [Designing Real-Time Neural Networks by Efficient Neural Architecture Search](https://zitongbo.github.io/publication/RetNAS) and [HFGCN: Hybrid Filter Graph Convolutional Network for Heterophilic Graphs](https://zitongbo.github.io/publication/HFGCN) have been accepted by the 2024 International Conference on Intelligent Computing (ICIC 2024). See you in Tianjin, China!
 * Our work [Developing Real-Time Scheduling Policy by Deep Reinforcement Learning](https://zitongbo.github.io/publication/RLscheduler) was accepted by the 27th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2021). I will give an oral presentation.
+
+
+**Visitor Map**
+<div class="clustrmaps-widget">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xeiHAWQl-GyUWcmcn0kAQStlwCSaRho8umNAMkcylPw&cl=ffffff&w=a"></script>
+</div>
