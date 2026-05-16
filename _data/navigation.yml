@@ -7,11 +7,16 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-    
+
   - title: "Experience"
     url: /cv/
 
   - title: "Blog"
     url: /blog/
+
+  - title: "AI Coding"
+    url: /ai-coding/
+
+  - title: "周报"
+    url: /weekly/
 

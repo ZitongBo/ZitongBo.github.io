@@ -34,14 +34,14 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=wqPI9sMAAAAJ&hl=zh-TW"
   impactstory      : # URL
-  orcid            : "https://scholar.google.com/citations?user=wqPI9sMAAAAJ&hl=zh-TW"
+  orcid            : # URL
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ZitongBo"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -69,7 +69,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : "https://www.zhihu.com/people/qian-chang-22-46/posts"
   wechat           : "bzt13693188569"
 
 # Publication Category - The following the list of publication categories and their headings
