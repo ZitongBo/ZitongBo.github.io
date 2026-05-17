@@ -316,7 +316,18 @@ redirect_from:
           <span class="lang-inline-en">Zhihu</span>
           <span class="lang-inline-zh">知乎</span>
         </a>
+        <a href="https://www.xiaohongshu.com/user/profile/59dc1d56db2e601ae168a5bb">
+          <span class="lang-inline-en">Xiaohongshu</span>
+          <span class="lang-inline-zh">小红书</span>
+        </a>
         <a href="mailto:bozitong@xiaomi.com">Email</a>
+      </div>
+      <div class="lp-wechat-qr">
+        <div class="lp-caption lp-mono" style="margin-bottom: 8px;">
+          <span class="lang-inline-en">WeChat Official Account</span>
+          <span class="lang-inline-zh">微信公众号</span>
+        </div>
+        <img src="{{ site.baseurl }}/qrcode_for_gh_945ff55844eb_430.jpg" alt="WeChat QR Code" style="width: 120px; height: 120px; border-radius: 4px;">
       </div>
     </div>
   </div>
