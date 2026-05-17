@@ -145,70 +145,14 @@ redirect_from:
   </div>
 </section>
 
-<!-- ===== 03 INTERN RECRUITMENT ===== -->
+<!-- ===== 03 SELECTED PUBLICATIONS ===== -->
 <section class="landing-section">
   <div class="lang-block-en">
-    <div class="lp-section-label lp-mono">03 / Join Us</div>
-    <h2>Seeking Research Interns</h2>
-    <div class="landing-about">
-      <div class="lp-bio">
-        <p>We are recruiting self-motivated research interns at <strong>Xiaomi Robotics Lab</strong> to work on the next generation of embodied AI systems. Our team focuses on enabling robots to perceive, reason, and act in unstructured real-world environments.</p>
-        <h3>Research Directions</h3>
-        <ul>
-          <li><strong>Vision-Language Models (VLM)</strong> — Multimodal scene understanding, spatial reasoning, task grounding, and success detection for robotic manipulation</li>
-          <li><strong>Vision-Language-Action (VLA)</strong> — End-to-end visuomotor policies, action representation learning, cross-embodiment transfer, and long-horizon task execution</li>
-          <li><strong>Vision-Language-Navigation (VLN)</strong> — Instruction-guided navigation, semantic mapping, and mobile manipulation in indoor/outdoor environments</li>
-          <li><strong>Embodied Planning & RL</strong> — LLM/VLM-based task planning, reinforcement learning for manipulation, sim-to-real transfer</li>
-        </ul>
-        <h3>What We Look For</h3>
-        <ul>
-          <li>Strong foundation in deep learning, computer vision, or NLP</li>
-          <li>Hands-on experience with at least one: PyTorch model training, robot simulation (Isaac Sim / MuJoCo / RoboCasa), real robot deployment</li>
-          <li>Familiarity with VLM/LLM architectures (Transformer, ViT, diffusion models) is a plus</li>
-          <li>Published papers at top venues (CVPR, ICRA, CoRL, NeurIPS, etc.) preferred but not required</li>
-          <li>Self-driven, curious, and comfortable working in a fast-paced research environment</li>
-        </ul>
-        <div class="lp-pullquote">We don't just want interns who can run experiments — we want people who can identify the right problems to solve.</div>
-        <p>Internship duration: 3–6 months (flexible). Location: Beijing (remote negotiable). Send your CV to <strong>bozitong@xiaomi.com</strong>.</p>
-      </div>
-    </div>
-  </div>
-  <div class="lang-block-zh">
-    <div class="lp-section-label lp-mono">03 / 加入我们</div>
-    <h2>招募研究实习生</h2>
-    <div class="landing-about">
-      <div class="lp-bio">
-        <p><strong>小米机器人实验室</strong>正在招募有自驱力的研究实习生，一起构建下一代具身智能系统。团队的核心目标是让机器人在非结构化的真实世界环境中实现感知、推理和操作。</p>
-        <h3>研究方向</h3>
-        <ul>
-          <li><strong>视觉-语言模型（VLM）</strong> — 多模态场景理解、空间推理、任务落地（grounding）、操作成功检测</li>
-          <li><strong>视觉-语言-动作模型（VLA）</strong> — 端到端视觉运动策略、动作表示学习、跨本体迁移、长序列任务执行</li>
-          <li><strong>视觉-语言-导航（VLN）</strong> — 指令引导导航、语义建图、室内外移动操作</li>
-          <li><strong>具身规划与强化学习</strong> — 基于 LLM/VLM 的任务规划、操作强化学习、仿真到真实迁移</li>
-        </ul>
-        <h3>我们期望你</h3>
-        <ul>
-          <li>扎实的深度学习 / 计算机视觉 / NLP 基础</li>
-          <li>至少有以下一项实操经验：PyTorch 模型训练、机器人仿真（Isaac Sim / MuJoCo / RoboCasa）、真机部署</li>
-          <li>熟悉 VLM/LLM 架构（Transformer、ViT、扩散模型）者优先</li>
-          <li>有顶会论文（CVPR、ICRA、CoRL、NeurIPS 等）发表经历者优先，但非必须</li>
-          <li>自驱、好奇、能适应快节奏的研究环境</li>
-        </ul>
-        <div class="lp-pullquote">我们不只需要会跑实验的实习生，更需要能发现正确问题的人。</div>
-        <p>实习时长：3–6 个月（可协商）。工作地点：北京（远程可商量）。简历请发送至 <strong>bozitong@xiaomi.com</strong>。</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ===== 04 SELECTED PUBLICATIONS ===== -->
-<section class="landing-section">
-  <div class="lang-block-en">
-    <div class="lp-section-label lp-mono">04 / Selected Publications</div>
+    <div class="lp-section-label lp-mono">03 / Selected Publications</div>
     <h2>Recent Work</h2>
   </div>
   <div class="lang-block-zh">
-    <div class="lp-section-label lp-mono">04 / 代表论文</div>
+    <div class="lp-section-label lp-mono">03 / 代表论文</div>
     <h2>近期工作</h2>
   </div>
 
@@ -282,14 +226,14 @@ redirect_from:
   </div>
 </section>
 
-<!-- ===== 05 NEWS ===== -->
+<!-- ===== 04 NEWS ===== -->
 <section class="landing-section">
   <div class="lang-block-en">
-    <div class="lp-section-label lp-mono">05 / News</div>
+    <div class="lp-section-label lp-mono">04 / News</div>
     <h2>What's Happening</h2>
   </div>
   <div class="lang-block-zh">
-    <div class="lp-section-label lp-mono">05 / 动态</div>
+    <div class="lp-section-label lp-mono">04 / 动态</div>
     <h2>最新消息</h2>
   </div>
 
@@ -356,13 +300,13 @@ redirect_from:
   </div>
 </section>
 
-<!-- ===== 06 CONNECT ===== -->
+<!-- ===== 05 CONNECT ===== -->
 <section id="connect" class="landing-section">
   <div class="lang-block-en">
-    <div class="lp-section-label lp-mono">06 / Connect</div>
+    <div class="lp-section-label lp-mono">05 / Connect</div>
   </div>
   <div class="lang-block-zh">
-    <div class="lp-section-label lp-mono">06 / 联系</div>
+    <div class="lp-section-label lp-mono">05 / 联系</div>
   </div>
 
   <div class="landing-connect">
