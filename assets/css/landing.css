@@ -21,20 +21,20 @@
 
 /* Root variables */
 .landing__content {
-  --lp-paper: #f5f1ea;
+  --lp-paper: #ffffff;
   --lp-ink: #1a1613;
   --lp-ink-soft: #534b42;
-  --lp-rule: #c9bfb0;
+  --lp-rule: #d9d4cd;
   --lp-accent: #8b4513;
   --lp-accent-soft: #f0e6d8;
-  --lp-bg: #f5f1ea;
+  --lp-bg: #ffffff;
 
   background: var(--lp-paper);
   color: var(--lp-ink);
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 15px;
   line-height: 1.6;
-  padding: 40px 72px 80px;
+  padding: 40px 96px 80px;
 }
 
 .landing__content *,
@@ -496,11 +496,11 @@
 
 /* ===== Theme footer integration ===== */
 body:has(.landing-page) .page__footer {
-  background: #f5f1ea;
+  background: #ffffff;
   border-top: none;
 }
 body:has(.landing-page) {
-  background: #f5f1ea;
+  background: #ffffff;
 }
 
 /* ===== RESPONSIVE ===== */
