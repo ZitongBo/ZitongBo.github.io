@@ -7,7 +7,7 @@ author_profile: true
 
 {% include lang-style.html %}
 
-<div class="lang-block-en">
+<div class="lang-block-en" markdown="1">
 
 Here I collect my latest technical articles published on Zhihu, focusing on embodied intelligence, robotics, and multimodal large models.
 
@@ -30,7 +30,7 @@ Here I collect my latest technical articles published on Zhihu, focusing on embo
 
 </div>
 
-<div class="lang-block-zh">
+<div class="lang-block-zh" markdown="1">
 
 这里记录我在知乎专栏发布的最新技术文章，主要聚焦具身智能、机器人与多模态大模型。
 

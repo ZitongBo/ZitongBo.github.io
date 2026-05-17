@@ -7,7 +7,7 @@ author_profile: true
 
 {% include lang-style.html %}
 
-<div class="lang-block-en">
+<div class="lang-block-en" markdown="1">
 
 I rely heavily on AI coding tools (Claude Code, Cursor, etc.) in my daily work and research. Here I document real-world cases and reflections.
 
@@ -54,7 +54,7 @@ The core skill for engineers using AI tools has shifted to: **clearly describing
 
 </div>
 
-<div class="lang-block-zh">
+<div class="lang-block-zh" markdown="1">
 
 我在日常工作和研究中大量使用 AI Coding 工具（Claude Code、Cursor 等），这里记录一些真实的实践案例和使用心得。
 
