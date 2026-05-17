@@ -30,6 +30,14 @@ redirect_from:
     <div class="lp-cta">
       <a class="lp-btn primary" href="https://scholar.google.com/citations?user=wqPI9sMAAAAJ&hl=zh-TW">Google Scholar →</a>
       <a class="lp-btn" href="https://github.com/ZitongBo">GitHub</a>
+      <a class="lp-btn" href="https://www.zhihu.com/people/qian-chang-22-46/posts">
+        <span class="lang-inline-en">Zhihu</span>
+        <span class="lang-inline-zh">知乎</span>
+      </a>
+      <a class="lp-btn" href="https://www.xiaohongshu.com/user/profile/59dc1d56db2e601ae168a5bb">
+        <span class="lang-inline-en">Xiaohongshu</span>
+        <span class="lang-inline-zh">小红书</span>
+      </a>
       <a class="lp-btn" href="#connect">
         <span class="lang-inline-en">Contact</span>
         <span class="lang-inline-zh">联系方式</span>
@@ -39,6 +47,13 @@ redirect_from:
   <div class="landing-hero-aside">
     <img class="lp-portrait" src="{{ site.baseurl }}/images/头像.png" alt="Zitong Bo">
     <div class="lp-caption lp-mono">Zitong Bo · Beijing · 2025</div>
+    <div class="lp-hero-wechat">
+      <div class="lp-caption lp-mono">
+        <span class="lang-inline-en">WeChat Official Account</span>
+        <span class="lang-inline-zh">微信公众号</span>
+      </div>
+      <img src="{{ site.baseurl }}/qrcode_for_gh_945ff55844eb_430.jpg" alt="WeChat QR Code">
+    </div>
   </div>
 </section>
 
