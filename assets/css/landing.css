@@ -142,6 +142,12 @@
   color: var(--lp-paper);
 }
 
+.lp-btn-icon {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+
 .lp-btn.primary {
   background: var(--lp-ink);
   color: var(--lp-paper);
@@ -469,6 +475,15 @@
   text-decoration: none !important;
   transition: all 0.15s;
   border-radius: 2px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.lp-link-icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
 }
 
 .lp-connect-links a:hover {

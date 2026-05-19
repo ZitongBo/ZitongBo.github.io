@@ -31,10 +31,12 @@ redirect_from:
       <a class="lp-btn primary" href="https://scholar.google.com/citations?user=wqPI9sMAAAAJ&hl=zh-TW">Google Scholar →</a>
       <a class="lp-btn" href="https://github.com/ZitongBo">GitHub</a>
       <a class="lp-btn" href="https://www.zhihu.com/people/qian-chang-22-46/posts">
+        <svg class="lp-btn-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M5.721 0C5.04 0 4.49.549 4.49 1.229v9.346c0 .68.55 1.229 1.231 1.229h4.633l-.924 3.077-2.365-1.478c-.263-.164-.592-.13-.82.08l-1.37 1.259 5.218 3.263c.262.163.591.13.819-.08l1.37-1.26-2.783-1.74.905-3.121h5.086c.68 0 1.231-.55 1.231-1.23V1.23C16.72.548 16.17 0 15.49 0H5.72zm7.21 2.252c1.62 0 2.934 1.567 2.934 3.5s-1.314 3.5-2.934 3.5c-1.62 0-2.934-1.567-2.934-3.5s1.314-3.5 2.934-3.5zM19.5 0c-.68 0-1.231.549-1.231 1.229v21.542c0 .68.55 1.229 1.231 1.229s1.231-.549 1.231-1.229V1.23C20.731.548 20.18 0 19.5 0z"/></svg>
         <span class="lang-inline-en">Zhihu</span>
         <span class="lang-inline-zh">知乎</span>
       </a>
       <a class="lp-btn" href="https://www.xiaohongshu.com/user/profile/59dc1d56db2e601ae168a5bb">
+        <svg class="lp-btn-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm2.559 6.052h2.368v2.368h-2.368V6.052zM7.073 6.052h6.118v11.896H7.073V6.052zm1.368 1.368v9.16h3.382v-9.16H8.441z"/></svg>
         <span class="lang-inline-en">Xiaohongshu</span>
         <span class="lang-inline-zh">小红书</span>
       </a>
@@ -325,17 +327,11 @@ redirect_from:
     </div>
     <div>
       <div class="lp-connect-links">
-        <a href="https://scholar.google.com/citations?user=wqPI9sMAAAAJ&hl=zh-TW">Google Scholar</a>
-        <a href="https://github.com/ZitongBo">GitHub</a>
-        <a href="https://www.zhihu.com/people/qian-chang-22-46/posts">
-          <span class="lang-inline-en">Zhihu</span>
-          <span class="lang-inline-zh">知乎</span>
-        </a>
-        <a href="https://www.xiaohongshu.com/user/profile/59dc1d56db2e601ae168a5bb">
-          <span class="lang-inline-en">Xiaohongshu</span>
-          <span class="lang-inline-zh">小红书</span>
-        </a>
-        <a href="mailto:bozitong@xiaomi.com">Email</a>
+        <a href="https://scholar.google.com/citations?user=wqPI9sMAAAAJ&hl=zh-TW"><svg class="lp-link-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.44L24 9.5z"/></svg> Google Scholar</a>
+        <a href="https://github.com/ZitongBo"><svg class="lp-link-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.385-1.335-1.755-1.335-1.755-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 21.795 24 17.295 24 12c0-6.63-5.37-12-12-12"/></svg> GitHub</a>
+        <a href="https://www.zhihu.com/people/qian-chang-22-46/posts"><svg class="lp-link-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M5.721 0C5.04 0 4.49.549 4.49 1.229v9.346c0 .68.55 1.229 1.231 1.229h4.633l-.924 3.077-2.365-1.478c-.263-.164-.592-.13-.82.08l-1.37 1.259 5.218 3.263c.262.163.591.13.819-.08l1.37-1.26-2.783-1.74.905-3.121h5.086c.68 0 1.231-.55 1.231-1.23V1.23C16.72.548 16.17 0 15.49 0H5.72zm7.21 2.252c1.62 0 2.934 1.567 2.934 3.5s-1.314 3.5-2.934 3.5c-1.62 0-2.934-1.567-2.934-3.5s1.314-3.5 2.934-3.5zM19.5 0c-.68 0-1.231.549-1.231 1.229v21.542c0 .68.55 1.229 1.231 1.229s1.231-.549 1.231-1.229V1.23C20.731.548 20.18 0 19.5 0z"/></svg> <span class="lang-inline-en">Zhihu</span><span class="lang-inline-zh">知乎</span></a>
+        <a href="https://www.xiaohongshu.com/user/profile/59dc1d56db2e601ae168a5bb"><svg class="lp-link-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm2.559 6.052h2.368v2.368h-2.368V6.052zM7.073 6.052h6.118v11.896H7.073V6.052zm1.368 1.368v9.16h3.382v-9.16H8.441z"/></svg> <span class="lang-inline-en">Xiaohongshu</span><span class="lang-inline-zh">小红书</span></a>
+        <a href="mailto:bozitong@xiaomi.com"><svg class="lp-link-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M2 4h20v16H2zm18 2H4l8 5zm0 2.5L12 13 4 8.5V18h16z"/></svg> Email</a>
       </div>
       <div class="lp-wechat-qr">
         <div class="lp-caption lp-mono" style="margin-bottom: 8px;">
