@@ -19,13 +19,13 @@ redirect_from:
       <div class="lp-eyebrow lp-mono">Senior Algorithm Engineer · Xiaomi Robotics Lab</div>
       <h1>Zitong Bo</h1>
       <p class="lp-subtitle">薄紫彤</p>
-      <p class="lp-lede">Focusing on manipulation and loco-manipulation using Vision-Language Models and Vision-Language-Action Models. Seeking self-motivated interns for agentic embodied AI research.</p>
+      <p class="lp-lede">Embodied AI ｜ Large Models ｜ OPC<br>Senior Algorithm Engineer @ Xiaomi Robotics ｜ Ph.D., Chinese Academy of Sciences<br>Sharing AI industry insights, OPC workflows, and daily life.<br>Collaboration / Internship / Investment → DM</p>
     </div>
     <div class="lang-block-zh">
       <div class="lp-eyebrow lp-mono">高级算法工程师 · 小米机器人实验室</div>
       <h1>薄紫彤</h1>
       <p class="lp-subtitle">Zitong Bo</p>
-      <p class="lp-lede">专注于基于视觉-语言模型（VLM）和视觉-语言-动作模型（VLA）的机械臂操作与移动操作研究。正在寻找有自驱力的实习生，一起做具身智能方向的研究。</p>
+      <p class="lp-lede">具身智能 ｜ 大模型 ｜ OPC<br>Xiaomi Robotics 高级算法工程师 ｜ 中科院 博士<br>分享AI行业资讯、OPC工作流、日常<br>合作/实习/投资 ➡️ 私信</p>
     </div>
     <div class="lp-cta">
       <a class="lp-btn primary" href="https://scholar.google.com/citations?user=wqPI9sMAAAAJ&hl=zh-TW">Google Scholar →</a>
