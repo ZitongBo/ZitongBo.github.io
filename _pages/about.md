@@ -19,7 +19,7 @@ redirect_from:
       <div class="lp-eyebrow lp-mono">Senior Algorithm Engineer · Xiaomi Robotics Lab</div>
       <h1>Zitong Bo</h1>
       <p class="lp-subtitle">薄紫彤</p>
-      <p class="lp-lede">Embodied AI ｜ Large Models ｜ OPC<br>Focusing on manipulation and loco-manipulation using Vision-Language Models and Vision-Language-Action Models. Seeking self-motivated interns for agentic embodied AI research.<br>Collaboration / Internship / Investment → bozitong@xiaomi.com</p>
+      <p class="lp-lede">Embodied AI ｜ Large Language Models ｜ OPC<br>Focusing on manipulation and loco-manipulation using Vision-Language Models and Vision-Language-Action Models. Seeking self-motivated interns for agentic embodied AI research.<br>Collaboration / Internship / Investment → bozitong@xiaomi.com</p>
     </div>
     <div class="lang-block-zh">
       <div class="lp-eyebrow lp-mono">高级算法工程师 · 小米机器人实验室</div>

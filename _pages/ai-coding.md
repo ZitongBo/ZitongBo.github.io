@@ -42,6 +42,20 @@ I rely heavily on AI coding tools (Claude Code, Cursor, etc.) in my daily work a
 
 ---
 
+### Codex + GPT5.5 Goal-Driven Agent 实验
+**工具：** Codex CLI + GPT5.5 Goal 模式
+**场景：** 让 AI agent 自主执行具身智能研究的完整流程——搭建环境、跑基线、读日志、归因失败、生成数据、训练模型、提交评测、汇总结果并持续迭代（跑了 15 天）
+**核心思路：** 将 Codex 反复调用的能力封装为可复用的 skill（镜像管理、数据平台、模型训练、评测、论文检索、知识库检索），使其能围绕同一研究目标持续执行
+**关键成果：**
+- 自动跑通 4 个 benchmark（ALFWorld、EB-ALFRED、EB-Habitat、LoTa-WAH）
+- 复现 RoboAgent-style pipeline，建立可比较的 baseline
+- 从 rollout 和日志中自动归因失败（重复搜索、阶段混乱、记忆未利用、工具格式错误等）
+- 通过 SFT/DPO 将失败轨迹转化为训练信号
+- 设计 Public-Sitter Memory 机制，只记录公开交互历史，可审计
+**收获：** Prompt 是接口约束，不是具身大脑能力本身；真正的长程状态保持、多目标 bookkeeping、复杂工具链切换，需要结合训练来解决
+
+---
+
 ## Reflections
 
 > AI Coding is not about writing less code — it's about spending your time on decisions that actually matter.
@@ -86,6 +100,20 @@ The core skill for engineers using AI tools has shifted to: **clearly describing
 **工具：** Claude
 **场景：** REVER 论文的 Abstract、Related Work 润色与逻辑梳理
 **收获：** AI 不能替代思考，但能显著提升语言质量；让 AI 先给出批评意见再修改，比直接让它重写效果更好
+
+---
+
+### Codex + GPT5.5 Goal-Driven Agent 实验
+**工具：** Codex CLI + GPT5.5 Goal 模式
+**场景：** 让 AI agent 自主执行具身智能研究的完整流程——搭建环境、跑基线、读日志、归因失败、生成数据、训练模型、提交评测、汇总结果并持续迭代（跑了 15 天）
+**核心思路：** 将 Codex 反复调用的能力封装为可复用的 skill（镜像管理、数据平台、模型训练、评测、论文检索、知识库检索），使其能围绕同一研究目标持续执行
+**关键成果：**
+- 自动跑通 4 个 benchmark（ALFWorld、EB-ALFRED、EB-Habitat、LoTa-WAH）
+- 复现 RoboAgent-style pipeline，建立可比较的 baseline
+- 从 rollout 和日志中自动归因失败（重复搜索、阶段混乱、记忆未利用、工具格式错误等）
+- 通过 SFT/DPO 将失败轨迹转化为训练信号
+- 设计 Public-Signal Memory 机制，只记录公开交互历史，可审计
+**收获：** Prompt 是接口约束，不是具身大脑能力本身；真正的长程状态保持、多目标 bookkeeping、复杂工具链切换，需要结合训练来解决
 
 ---
 
