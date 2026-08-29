@@ -311,6 +311,39 @@
   border-radius: 2px;
 }
 
+/* ===== PROJECT STORY ===== */
+.landing-project-story {
+  max-width: 920px;
+  border-top: 1px solid var(--lp-ink);
+  padding-top: 24px;
+}
+
+.project-story-section h2 {
+  max-width: 30ch;
+}
+
+.landing-project-story p {
+  font-family: 'Noto Serif SC', Georgia, serif;
+  font-size: 17px;
+  line-height: 1.72;
+  color: var(--lp-ink-soft);
+  margin: 0 0 18px;
+}
+
+.landing-project-story p:first-of-type::first-letter {
+  font-size: 52px;
+  line-height: 0.85;
+  float: left;
+  padding: 7px 12px 0 0;
+  font-weight: 500;
+  color: var(--lp-accent);
+}
+
+.landing-project-story .lp-pullquote {
+  max-width: 760px;
+  margin: 28px 0;
+}
+
 /* ===== PUBLICATIONS ===== */
 .landing-pubs {
   border-top: 1px solid var(--lp-ink);
@@ -537,7 +570,7 @@ body:has(.landing-page) {
 
 /* ===== RESPONSIVE ===== */
 @media (max-width: 900px) {
-  .landing__content {
+  .landing-page .landing__content {
     padding: 24px 24px 60px;
   }
 
@@ -585,7 +618,7 @@ body:has(.landing-page) {
 }
 
 @media (max-width: 600px) {
-  .landing__content {
+  .landing-page .landing__content {
     padding: 16px 16px 48px;
     font-size: 14px;
   }
@@ -600,6 +633,10 @@ body:has(.landing-page) {
 
   .lp-pullquote {
     font-size: 16px;
+  }
+
+  .landing-project-story p {
+    font-size: 15px;
   }
 
   .landing-footer {

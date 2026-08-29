@@ -19,13 +19,13 @@ redirect_from:
       <div class="lp-eyebrow lp-mono">Senior Algorithm Engineer · Xiaomi Robotics Lab</div>
       <h1>Zitong Bo</h1>
       <p class="lp-subtitle">薄紫彤</p>
-      <p class="lp-lede">Embodied AI ｜ Large Language Models ｜ OPC<br>Focusing on manipulation and loco-manipulation using Vision-Language Models and Vision-Language-Action Models. Seeking self-motivated interns for agentic embodied AI research.<br>Collaboration / Internship / Investment → bozitong@xiaomi.com</p>
+      <p class="lp-lede">Building self-evolving agents for embodied intelligence.<br>Focusing on robotic manipulation and loco-manipulation powered by Vision-Language Models and Vision-Language-Action Models. From StarCraft AI to real-world robots — always chasing the next level of autonomous reasoning.<br>Collaboration / Internship / Investment → bozitong@xiaomi.com</p>
     </div>
     <div class="lang-block-zh">
       <div class="lp-eyebrow lp-mono">高级算法工程师 · 小米机器人实验室</div>
       <h1>薄紫彤</h1>
       <p class="lp-subtitle">Zitong Bo</p>
-      <p class="lp-lede">具身智能 ｜ 大模型 ｜ OPC<br>专注于基于视觉-语言模型（VLM）和视觉-语言-动作模型（VLA）的机械臂操作与移动操作研究。正在寻找有自驱力的实习生，一起做具身智能方向的研究。<br>合作/实习/投资 ➡️ bozitong@xiaomi.com</p>
+      <p class="lp-lede">构建可自我进化的具身智能体。<br>专注于视觉-语言模型和视觉-语言-动作模型驱动的机器人操作与移动操作。从星际争霸 AI 到真实世界机器人——始终追寻更高层次的自主推理能力。<br>合作/实习/投资 ➡️ bozitong@xiaomi.com</p>
     </div>
     <div class="lp-cta">
       <a class="lp-btn primary" href="https://scholar.google.com/citations?user=wqPI9sMAAAAJ&hl=zh-TW">Google Scholar →</a>
@@ -147,14 +147,41 @@ redirect_from:
   </div>
 </section>
 
-<!-- ===== 03 SELECTED PUBLICATIONS ===== -->
+<!-- ===== 03 PROJECT STORY ===== -->
+<section class="landing-section project-story-section">
+  <div class="lang-block-en">
+    <div class="lp-section-label lp-mono">03 / What I Build</div>
+    <h2>Building Systems That Learn in the Real World</h2>
+    <div class="landing-project-story">
+      <p>I work on embodied intelligence at the point where models meet physical systems. My current focus is a self-evolving loop between an agent, a robot, and a human: the agent turns goals into executable policies, the robot provides grounded feedback, and every successful or failed attempt becomes evidence for the next iteration.</p>
+      <p>That loop begins with data. I build egocentric manipulation datasets from collection and quality control through automatic annotation and policy training, using vision-language models, Grounding DINO, and SAM2 to isolate the objects, target regions, hands, and arms that matter for a task. This makes human demonstrations more useful to downstream VLA policies and narrows the visual gap between demonstrations and deployment.</p>
+      <p>Above the data layer, I develop embodied VLMs and agents that can reason about space, decompose tasks, monitor progress, detect failure, call tools, and coordinate navigation with manipulation. The work spans pretraining, robot-task SFT, GRPO post-training, agent memory, and the interfaces that connect models to real robots. I have deployed these systems on fixed-arm and mobile dual-arm platforms, where they have been tested on organization, pouring, weighing, sorting, and long-distance navigation.</p>
+      <div class="lp-pullquote">The goal is not simply to make a robot follow a policy, but to build a system that can understand why a policy failed, change it, and try again.</div>
+      <p>In this direction, Codex generates Code-as-Policy from robot APIs and VLA capabilities, while safety checks define the boundary between exploration and execution. Validated trajectories, failure cases, and reusable skills flow back into the system. The resulting loop has been run continuously for up to 336 hours, providing a practical testbed for studying how autonomous improvement scales with model and token budgets.</p>
+    </div>
+  </div>
+
+  <div class="lang-block-zh">
+    <div class="lp-section-label lp-mono">03 / 我的工作</div>
+    <h2>让具身智能在真实世界中持续学习</h2>
+    <div class="landing-project-story">
+      <p>我的工作聚焦于模型与物理系统相遇的地方。当前主要探索 Agent、机器人和人之间的自进化闭环：Agent 将任务目标转化为可执行策略，机器人提供来自真实环境的反馈，而每一次成功或失败都会成为下一轮迭代的依据。</p>
+      <p>这个闭环从数据开始。我负责构建 ego 视角的人类操作数据流程，从数据采集、质量验收到自动标注和策略训练，使用视觉-语言模型、Grounding DINO 与 SAM2 找到任务真正相关的物体、目标区域、人手和胳膊。这样既能提升人类演示对 VLA 策略的价值，也能缩小演示数据与真机部署之间的视觉差距。</p>
+      <p>在数据之上，我开发能够理解空间、拆解任务、监控进度、发现失败、调用工具，并协调导航与操作的具身 VLM 和 Agent。相关工作覆盖预训练、机器人任务 SFT、GRPO 后训练、Agent 记忆，以及连接模型、工具和真机的系统接口。这些系统已经部署在固定臂和轮式双臂平台上，并在桌面整理、倒茶、称重、垃圾分类和长距离导航等任务中完成验证。</p>
+      <div class="lp-pullquote">我关注的不只是让机器人执行策略，而是让系统理解策略为什么失败，主动修改它，再重新尝试。</div>
+      <p>在自进化方向上，Codex 根据机器人 API 和 VLA 能力生成 Code-as-Policy，安全检查划定探索与执行之间的边界；验证通过的轨迹、失败样本和可复用 Skill 再回流到系统中。这个闭环最长已连续运行 336 小时，也为研究模型规模、Token 规模与任务性能之间的关系提供了真实的实验环境。</p>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 04 SELECTED PUBLICATIONS ===== -->
 <section class="landing-section">
   <div class="lang-block-en">
-    <div class="lp-section-label lp-mono">03 / Selected Publications</div>
+    <div class="lp-section-label lp-mono">04 / Selected Publications</div>
     <h2>Recent Work</h2>
   </div>
   <div class="lang-block-zh">
-    <div class="lp-section-label lp-mono">03 / 代表论文</div>
+    <div class="lp-section-label lp-mono">04 / 代表论文</div>
     <h2>近期工作</h2>
   </div>
 
@@ -228,14 +255,14 @@ redirect_from:
   </div>
 </section>
 
-<!-- ===== 04 NEWS ===== -->
+<!-- ===== 05 NEWS ===== -->
 <section class="landing-section">
   <div class="lang-block-en">
-    <div class="lp-section-label lp-mono">04 / News</div>
+    <div class="lp-section-label lp-mono">05 / News</div>
     <h2>What's Happening</h2>
   </div>
   <div class="lang-block-zh">
-    <div class="lp-section-label lp-mono">04 / 动态</div>
+    <div class="lp-section-label lp-mono">05 / 动态</div>
     <h2>最新消息</h2>
   </div>
 
@@ -302,13 +329,13 @@ redirect_from:
   </div>
 </section>
 
-<!-- ===== 05 CONNECT ===== -->
+<!-- ===== 06 CONNECT ===== -->
 <section id="connect" class="landing-section">
   <div class="lang-block-en">
-    <div class="lp-section-label lp-mono">05 / Connect</div>
+    <div class="lp-section-label lp-mono">06 / Connect</div>
   </div>
   <div class="lang-block-zh">
-    <div class="lp-section-label lp-mono">05 / 联系</div>
+    <div class="lp-section-label lp-mono">06 / 联系</div>
   </div>
 
   <div class="landing-connect">
