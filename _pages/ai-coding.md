@@ -3,6 +3,7 @@ layout: single
 title: "AI Coding"
 permalink: /ai-coding/
 author_profile: true
+xiaohongshu: "https://www.xiaohongshu.com/user/profile/59dc1d56db2e601ae168a5bb"
 ---
 
 {% include lang-style.html %}

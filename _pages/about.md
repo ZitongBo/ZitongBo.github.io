@@ -19,7 +19,7 @@ redirect_from:
       <div class="lp-eyebrow lp-mono">Senior Algorithm Engineer · Xiaomi Robotics Lab</div>
       <h1>Zitong Bo</h1>
       <p class="lp-subtitle">薄紫彤</p>
-      <p class="lp-lede">Building self-evolving agents for embodied intelligence.<br>Focusing on robotic manipulation and loco-manipulation powered by Vision-Language Models and Vision-Language-Action Models. From StarCraft AI to real-world robots — always chasing the next level of autonomous reasoning.<br>Collaboration / Internship / Investment → bozitong@xiaomi.com</p>
+      <p class="lp-lede">I work on Vision-Language Models, Vision-Language-Action Models, and embodied agents to build robots that can understand what needs to be done, learn from experience, and become more capable in the real world.<br>Looking for co-founders and investors who want to build the future of embodied intelligence → bozitong@xiaomi.com</p>
     </div>
     <div class="lang-block-zh">
       <div class="lp-eyebrow lp-mono">高级算法工程师 · 小米机器人实验室</div>
