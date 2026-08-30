@@ -153,11 +153,11 @@ redirect_from:
     <div class="lp-section-label lp-mono">03 / What I Build</div>
     <h2>Building Systems That Learn in the Real World</h2>
     <div class="landing-project-story">
-      <p>I work on embodied intelligence at the point where models meet physical systems. My current focus is a self-evolving loop between an agent, a robot, and a human: the agent turns goals into executable policies, the robot provides grounded feedback, and every successful or failed attempt becomes evidence for the next iteration.</p>
-      <p>That loop begins with data. I build egocentric manipulation datasets from collection and quality control through automatic annotation and policy training, using vision-language models, Grounding DINO, and SAM2 to isolate the objects, target regions, hands, and arms that matter for a task. This makes human demonstrations more useful to downstream VLA policies and narrows the visual gap between demonstrations and deployment.</p>
-      <p>Above the data layer, I develop embodied VLMs and agents that can reason about space, decompose tasks, monitor progress, detect failure, call tools, and coordinate navigation with manipulation. The work spans pretraining, robot-task SFT, GRPO post-training, agent memory, and the interfaces that connect models to real robots. I have deployed these systems on fixed-arm and mobile dual-arm platforms, where they have been tested on organization, pouring, weighing, sorting, and long-distance navigation.</p>
+      <p>I work on embodied intelligence at the point where models meet the physical world. My current focus is building agents that can understand goals, interact with robots, and improve through feedback from real environments.</p>
+      <p>My work spans the full loop from human demonstrations and robot data to vision-language models, vision-language-action policies, and embodied agents. I am interested in how models can connect perception, reasoning, planning, and action to make robots more capable and adaptable.</p>
+      <p>I also explore systems that combine agents, tools, and real robots in a continuous process of learning and refinement. This includes robot manipulation, navigation, task decomposition, memory, tool use, and the interfaces that allow models to work reliably with physical systems.</p>
       <div class="lp-pullquote">The goal is not simply to make a robot follow a policy, but to build a system that can understand why a policy failed, change it, and try again.</div>
-      <p>In this direction, Codex generates Code-as-Policy from robot APIs and VLA capabilities, while safety checks define the boundary between exploration and execution. Validated trajectories, failure cases, and reusable skills flow back into the system. The resulting loop has been run continuously for up to 336 hours, providing a practical testbed for studying how autonomous improvement scales with model and token budgets.</p>
+      <p>Ultimately, I want to build embodied systems that can learn from experience, reason about their own behavior, and gradually become more useful in the real world.</p>
     </div>
   </div>
 
@@ -165,11 +165,11 @@ redirect_from:
     <div class="lp-section-label lp-mono">03 / 我的工作</div>
     <h2>让具身智能在真实世界中持续学习</h2>
     <div class="landing-project-story">
-      <p>我的工作聚焦于模型与物理系统相遇的地方。当前主要探索 Agent、机器人和人之间的自进化闭环：Agent 将任务目标转化为可执行策略，机器人提供来自真实环境的反馈，而每一次成功或失败都会成为下一轮迭代的依据。</p>
-      <p>这个闭环从数据开始。我负责构建 ego 视角的人类操作数据流程，从数据采集、质量验收到自动标注和策略训练，使用视觉-语言模型、Grounding DINO 与 SAM2 找到任务真正相关的物体、目标区域、人手和胳膊。这样既能提升人类演示对 VLA 策略的价值，也能缩小演示数据与真机部署之间的视觉差距。</p>
-      <p>在数据之上，我开发能够理解空间、拆解任务、监控进度、发现失败、调用工具，并协调导航与操作的具身 VLM 和 Agent。相关工作覆盖预训练、机器人任务 SFT、GRPO 后训练、Agent 记忆，以及连接模型、工具和真机的系统接口。这些系统已经部署在固定臂和轮式双臂平台上，并在桌面整理、倒茶、称重、垃圾分类和长距离导航等任务中完成验证。</p>
+      <p>我的工作聚焦于模型与物理世界相遇的地方。当前主要探索如何构建能够理解目标、操作机器人，并从真实环境反馈中不断改进的具身智能体。</p>
+      <p>相关工作覆盖从人类演示和机器人数据，到视觉-语言模型、视觉-语言-动作策略和具身 Agent 的完整链路。我关注如何让模型把感知、推理、规划和行动连接起来，让机器人变得更加灵活和适应性更强。</p>
+      <p>我也在探索由 Agent、工具和真机构成的持续学习系统，包括机器人操作、导航、任务拆解、记忆、工具调用，以及让模型能够稳定连接物理系统的接口。</p>
       <div class="lp-pullquote">我关注的不只是让机器人执行策略，而是让系统理解策略为什么失败，主动修改它，再重新尝试。</div>
-      <p>在自进化方向上，Codex 根据机器人 API 和 VLA 能力生成 Code-as-Policy，安全检查划定探索与执行之间的边界；验证通过的轨迹、失败样本和可复用 Skill 再回流到系统中。这个闭环最长已连续运行 336 小时，也为研究模型规模、Token 规模与任务性能之间的关系提供了真实的实验环境。</p>
+      <p>我希望最终构建出能够从经验中学习、理解自身行为，并在真实世界中逐渐变得更有用的具身系统。</p>
     </div>
   </div>
 </section>
