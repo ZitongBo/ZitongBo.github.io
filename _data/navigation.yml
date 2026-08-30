@@ -11,9 +11,11 @@ main:
   - title: "Experience"
     url: /cv/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Blog"
     url: /blog/
 
   - title: "AI Coding"
     url: /ai-coding/
-
