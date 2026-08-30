@@ -68,13 +68,13 @@ redirect_from:
         <h2>Towards Artificial General Intelligence</h2>
         <p>I received my Ph.D. from the <a href="https://www.is.cas.cn/">Institute of Software, Chinese Academy of Sciences</a>, where my research covered real-time systems, embedded AI, and reinforcement learning. I was fortunate to be advised by Prof. Ying Qiao at the Human-Computer Interaction Technology and Intelligent Information Processing Laboratory.</p>
         <p>I previously worked with Prof. <a href="https://pi.cs.tsinghua.edu.cn/lab/people/jlxing/en/">Junliang Xing</a> at the Institute of Automation, CAS. We placed 3rd and 4th in the CIG 2017 and AIIDE 2018 StarCraft AI competitions. I am a Grandmaster-level StarCraft player and passionate about applying AI to games.</p>
-        <div class="lp-pullquote">Bridging the gap between intelligent planning and real-world robotic manipulation through vision-language-action models.</div>
+        <div class="lp-pullquote">Building embodied systems that connect language, reasoning, and action in the real world.</div>
       </div>
       <div>
         <div class="lp-caption lp-mono" style="margin-bottom: 14px;">Trajectory</div>
         <ul class="lp-exp">
           <li>
-            <span class="lp-year">2025 —</span>
+            <span class="lp-year">2024 —</span>
             <span class="lp-role">Xiaomi Robotics Lab · Senior Algorithm Engineer</span>
           </li>
           <li>

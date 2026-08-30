@@ -10,7 +10,7 @@ redirect_from:
 {% include lang-style.html %}
 {% include base_path %}
 
-<div class="lang-block-en">
+<div class="lang-block-en" markdown="1">
 
 ## Education
 
@@ -21,7 +21,7 @@ redirect_from:
 
 ## Work Experience
 
-* 2025–present: Xiaomi Robotics Lab
+* 2024–present: Xiaomi Robotics Lab
   * Senior Algorithm Engineer
   * Vision-Language-Action Models (VLA), Agentic AI, Chain-of-Thought, Reinforcement Learning
 * 2017–2018: Institute of Automation, Chinese Academy of Sciences
@@ -37,7 +37,7 @@ redirect_from:
 
 </div>
 
-<div class="lang-block-zh">
+<div class="lang-block-zh" markdown="1">
 
 ## 教育经历
 
@@ -48,7 +48,7 @@ redirect_from:
 
 ## 工作经历
 
-* 2025–至今：小米机器人实验室
+* 2024–至今：小米机器人实验室
   * 高级算法工程师
   * 研究方向：视觉-语言-动作模型（VLA）、具身智能体、思维链、强化学习
 * 2017–2018：中国科学院自动化研究所
